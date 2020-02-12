@@ -1,3 +1,3 @@
 # vue-series
 
-#### vue项目合集
+#### vue 项目
