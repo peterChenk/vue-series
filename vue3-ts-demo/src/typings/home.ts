@@ -15,7 +15,7 @@ export interface IHomeLessons {
 }
 
 export interface ISilders {
-  url:String
+  url:string
 }
 
 export interface IHomeState {
